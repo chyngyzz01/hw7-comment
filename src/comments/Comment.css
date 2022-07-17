@@ -1,0 +1,11 @@
+.Comment{
+    margin-left: 100px;
+}
+.userInfo {
+	width: 250px;
+	margin: auto;
+	border: 2px solid black;
+    border-radius: 20px;
+    background: orange;
+    margin-top: 50px;
+}
